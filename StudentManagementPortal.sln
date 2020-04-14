@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentsManagementPortal", "..\..\..\Downloads\Asp-net-Core-Project-with-Admin-Template-Setup-master\Asp-net-Core-Project-with-Admin-Template-Setup-master\StudentsManagementPortal.csproj", "{76B14CE4-672A-42FA-878D-6D56F0A86D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementPortalTests", "StudentManagementPortalTests\StudentManagementPortalTests.csproj", "{7C8D3E36-839D-4C56-BB73-FBD01C3EB860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B14CE4-672A-42FA-878D-6D56F0A86D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B14CE4-672A-42FA-878D-6D56F0A86D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B14CE4-672A-42FA-878D-6D56F0A86D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B14CE4-672A-42FA-878D-6D56F0A86D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8D3E36-839D-4C56-BB73-FBD01C3EB860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8D3E36-839D-4C56-BB73-FBD01C3EB860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8D3E36-839D-4C56-BB73-FBD01C3EB860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8D3E36-839D-4C56-BB73-FBD01C3EB860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C99325C-49C5-435C-8DD9-AD67515FEDCD}
+	EndGlobalSection
+EndGlobal
