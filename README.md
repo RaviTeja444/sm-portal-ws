@@ -4,6 +4,11 @@
 1. Student Management Portal(Main project)
 2. Student Management Portal Tests(Test Project)
 
+# Video Links
+- 
+- 
+- Ravi Teja Pagidoju (https://app.vidgrid.com/view/HF41S3FF3hSY)
+
 ## Pre requisites and steps for the Application
 
 - Install visual Studio 2019 Community Addition.
